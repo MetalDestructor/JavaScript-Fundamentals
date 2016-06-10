@@ -40,7 +40,7 @@
 - DHTML consists of HTML + CSS + JavaScript
 
 <!-- attr: { hasScriptWrapper:true, style:'font-size:0.9em' } -->
-# DTHML = HTML + CSS + JavaScript
+# DHTML = HTML + CSS + JavaScript
 - **HTML** defines Web sites **content** through **semantic** tags (headings, paragraphs, lists, …)
 - **CSS** defines **'rules**' or **'styles**' for **presenting** every aspect of an HTML document
   - **Font** (family, size, color, weight, etc.)
